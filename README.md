@@ -40,11 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F5EEF8?style=flat&logo=javascript&logoColor=5B2C6F)
 ![SQLite](https://img.shields.io/badge/SQLite-884EA0?style=flat&logo=sqlite&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-9B59B6?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-BA68C8?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-AB47BC?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-B39DDB?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-D2B4DE?style=flat&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-DCC6E0?style=flat&logo=linux&logoColor=black)
+
 
 ---
 
