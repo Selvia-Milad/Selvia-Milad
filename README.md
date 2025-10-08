@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Banner GIF (replace URL if you upload your own gif to the repo) -->
+ 
+   <br>
 
+   
 # 💜 Hey, I'm Selvia Milad
 🎓 Computer Science Student @ Minya University  
 👩‍💻 Passionate about coding, design and building real projects  
