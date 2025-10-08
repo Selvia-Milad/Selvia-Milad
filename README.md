@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- Banner GIF (replace URL if you upload your own gif to the repo) -->
-<img src="https://i.ibb.co/whyw4vHs/Gemini-Generated-Image-w3wzlcw3wzlcw3wz.png" />
-<br>
 
 # 💜 Hey, I'm Selvia Milad
 🎓 Computer Science Student @ Minya University  
