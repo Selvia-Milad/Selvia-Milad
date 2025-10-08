@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Banner GIF (replace URL if you upload your own gif to the repo) -->
-<img src="![Uploading Gemini_Generated_Image_w3wzlcw3wzlcw3wz.png…]()
-" alt="Selvia Milad Coding Banner" width="60%"/>
+<img src="https://ibb.co/LdSJ1Gw5" width="60%"/>
 <br>
 
 # 💜 Hey, I'm Selvia Milad
