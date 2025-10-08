@@ -13,13 +13,6 @@
 
 ---
 
-<div align="center">
-
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=Selvia-Milad&style=flat&color=9B59B6&label=PROFILE+VIEWS)
-![VISITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Selvia-Milad&count_bg=%23C39BD3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)
-
-</div>
-
 ---
 
 ## ✨ About Me
