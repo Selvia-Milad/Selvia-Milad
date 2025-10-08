@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner GIF (replace URL if you upload your own gif to the repo) -->
-<img src="url=https://ibb.co/LdSJ1Gw5][img]https://i.ibb.co/5hTnL7DF/Gemini-Generated-Image-w3wzlcw3wzlcw3wz.png[/img][/url" width="60%"/>
+<img url=https://ibb.co/LdSJ1Gw5][img]https://i.ibb.co/5hTnL7DF/Gemini-Generated-Image-w3wzlcw3wzlcw3wz.png[/img][/url] width="60%"/>
 <br>
 
 # 💜 Hey, I'm Selvia Milad
