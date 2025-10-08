@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Banner GIF (replace URL if you upload your own gif to the repo) -->
-<img src="https://i.ibb.co/XXC7J9M/lavender-girl-coding.png" alt="Selvia Milad Coding Banner" width="60%"/>
+<img src="![Uploading Gemini_Generated_Image_w3wzlcw3wzlcw3wz.png…]()
+" alt="Selvia Milad Coding Banner" width="60%"/>
 <br>
 
 # 💜 Hey, I'm Selvia Milad
