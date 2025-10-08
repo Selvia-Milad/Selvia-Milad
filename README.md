@@ -18,7 +18,7 @@
 ## ✨ About Me
 - Name: **Selvia Milad**  
 - Major: Computer Science — Minya University  
-- Interests: Mobile apps, UI/UX, problem solving, practical projects  
+- Interests: Mobile apps, problem solving, practical projects  
 - Working style: Practical > Theoretical — I prefer building real stuff
 
 ---
@@ -54,11 +54,6 @@
 - Object-Oriented Programming with **Java** (in-depth)  
 - Improving **Flutter** app architecture and state management  
 - Competitive **C++** problem solving
-
----
-
-## 💡 Fun Fact
-> I do my best debugging between 11pm — 3am. Coffee required. 😅
 
 ---
 
