@@ -45,14 +45,14 @@
 - ✅ **C++** — solid fundamentals, problem solving practice  
 - ✅ **Flutter** — built small apps / learning widgets & state management  
 - ✅ **C#** — learned basics and syntax  
-- ✅ **Java (OOP)** — currently studying Object-Oriented Programming with Java  
+- ✅ **Java (OOP)** —  studying Object-Oriented Programming with Java  
 - ✅ **Web basics** — HTML, CSS, JavaScript (foundations)  
 - ✅ **Databases** — SQLite, basic Firebase usage
 
 ---
 
 ## 🌱 Currently Learning
-- Object-Oriented Programming with **Java** (in-depth)  
+- data structure by c++  
 - Improving **Flutter** app architecture and state management  
 - Competitive **C++** problem solving
 
