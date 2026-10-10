@@ -1,25 +1,22 @@
 <div align="center">
 
-<!-- Banner GIF (replace URL if you upload your own gif to the repo) -->
- 
-   <br>
+<!-- Banner GIF (replace this URL if you upload your own GIF to the repo) -->
 
-   
+<br>
+
 # 💜 Hey, I'm Selvia Milad
 🎓 Computer Science Student @ Minya University  
-👩‍💻 Passionate about coding, design and building real projects  
+👩‍💻 Passionate about coding, design, and building real projects  
 ☕ Late-night debugger — I code better with music and coffee
 
 </div>
 
 ---
 
----
-
 ## ✨ About Me
-- Name: **Selvia Milad**  
-- Major: Computer Science — Minya University  
-- Interests: Mobile apps, problem solving, practical projects  
+- Name: **Selvia Milad**
+- Major: Computer Science — Minya University
+- Interests: Mobile apps, problem solving, and practical projects
 - Working style: Practical > Theoretical — I prefer building real stuff
 
 ---
@@ -38,23 +35,22 @@
 ![SQLite](https://img.shields.io/badge/SQLite-884EA0?style=flat&logo=sqlite&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-9B59B6?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-
 ---
 
 ## 📚 Skills & Experience
-- ✅ **C++** — solid fundamentals, problem solving practice  
-- ✅ **Flutter** — built small apps / learning widgets & state management  
-- ✅ **C#** — learned basics and syntax  
-- ✅ **Java (OOP)** —  studying Object-Oriented Programming with Java  
-- ✅ **Web basics** — HTML, CSS, JavaScript (foundations)  
-- ✅ **Databases** — SQLite, basic Firebase usage
+- ✅ **C++** — solid fundamentals, problem-solving practice, and studied data structures
+- ✅ **Flutter** — built small apps; currently learning widgets and state management
+- ✅ **C#** — learned the basics and syntax
+- ✅ **Java (OOP)** — studying object-oriented programming
+- ✅ **Web basics** — HTML, CSS, and JavaScript foundations
+- ✅ **Databases** — SQLite and basic Firebase usage
 
 ---
 
 ## 🌱 Currently Learning
-- data structure by c++  
-- Improving **Flutter** app architecture and state management  
-- Competitive **C++** problem solving
+- **Flutter** — improving app architecture and state management
+- **Firebase** — learning how to use it in Flutter apps
+- **C++** — competitive problem solving
 
 ---
 
@@ -63,12 +59,13 @@
 ```dart
 // 💜 Organized by Selvia
 
-class AboutMe { 
-  const myStack = {  
-    "Languages" : { "C++", "C#", "Java", "Dart", "JavaScript", "HTML", "CSS" },
-    "Frameworks" : { "Flutter" },
-    "Database" : { "SQLite", "Firebase (basic)" },
-    "Editors" : { "VSCode", "Android Studio" },
-    "Interests" : { "UI/UX Design", "Mobile App Development", "Problem Solving" }
+class AboutMe {
+  const myStack = {
+    "Languages": {"C++", "C#", "Java", "Dart", "JavaScript", "HTML", "CSS"},
+    "Frameworks": {"Flutter"},
+    "Database": {"SQLite", "Firebase (learning)"},
+    "Editors": {"VSCode", "Android Studio"},
+    "Interests": {"UI/UX Design", "Mobile App Development", "Problem Solving"}
   };
 }
+```
